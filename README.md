@@ -4,9 +4,9 @@
   <img src="https://img.shields.io/badge/Vencord-E46F92.svg?&logo=vencord&logoColor=white" alt="Vencord">
 </div>
 
-# Midnight Personal Vencord Theme 🌙
+# Jay's Vencord Settings 🌙
 
-Welcome to my custom CSS configuration for [Vencord](https://github.com/Vencord/Vencord), a powerful Discord personalization tool. This project builds off [refact0r’s Midnight Discord theme](https://github.com/refact0r/midnight-discord), enhancing it with personal tweaks and plugin compatibility fixes — especially for **SpotifyControls**.
+Welcome to my custom CSS configuration for [Vencord](https://github.com/Vencord/Vencord), a powerful Discord personalization tool. This project builds off [refact0r’s Midnight Discord theme](https://github.com/refact0r/midnight-discord), enhancing it with personal tweaks and plugin compatibility fixes, especially for **SpotifyControls**.
 
 ## 🎨 Theme Overview
 
@@ -33,7 +33,7 @@ This theme ensures better support for:
 - ✅ **SpotifyControls** — custom layout fixes for smoother integration
 - Other plugins may work well, but testing is ongoing. Feel free to submit improvements!
 
-## Original Theme
+## 🌕 Original Theme
 See: [github.com/refact0r/midnight-discord](https://github.com/refact0r/midnight-discord)
 - Inspiration and enhancements are based on community feedback and personal experimentation.
 
