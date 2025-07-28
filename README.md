@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Vencord-E46F92.svg?&logo=vencord&logoColor=white" alt="Vencord">
 </div>
 
-# 🌙 Midnight Personal Vencord Theme
+# Midnight Personal Vencord Theme 🌙
 
 Welcome to my custom CSS configuration for [Vencord](https://github.com/Vencord/Vencord), a powerful Discord personalization tool. This project builds off [refact0r’s Midnight Discord theme](https://github.com/refact0r/midnight-discord), enhancing it with personal tweaks and plugin compatibility fixes — especially for **SpotifyControls**.
 
