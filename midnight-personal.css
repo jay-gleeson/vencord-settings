@@ -138,18 +138,20 @@ body {
     --purple-5: hsl(270deg, 57%, 67%);
 }
 
-/* Border Fix */
+/* begin custom modifications */
+
+/* border fix */
 :root {
     --border: #0000 !important;
     --opacity-blurple-16: #0000;
 }
 
-/* Reaction Count Fix */
+/* reaction count fix */
 .reactionCount__23977 {
     color: var(--text-3) !important;
 }
 
-/* SpotifyControls Fix */
+/* SpotifyControls fix */
 .vc-spotify-ellipoverflow, .vc-spotify-artist, .vc-spotify-album {
     color: var(--text-3) !important;
 }
