@@ -1,3 +1,14 @@
+/**
+ * @name midnight
+ * @description a dark, customizable discord theme.
+ * @author refact0r
+ * @version 2.1.1
+ * @invite nz87hXyvcy
+ * @website https://github.com/refact0r/midnight-discord
+ * @source https://github.com/refact0r/midnight-discord/blob/master/themes/midnight.theme.css
+ * @authorId 508863359777505290
+ * @authorLink https://www.refact0r.dev
+*/
 
 /* import theme modules */
 @import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
@@ -6,12 +17,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,100..700;1,100..700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-    /* font, change to '' for default discord font */
-    --font: 'Space Mono';
+    /* font options */
+    --font: 'Space Mono'; /* change to '' for default discord font */
+    --code-font: 'Space Mono'; /* change to '' for default discord font */
+    font-weight: 400; /* normal text font weight. DOES NOT AFFECT BOLD TEXT */
 
     /* sizes */
     --gap: 12px; /* spacing between panels */
     --divider-thickness: 4px; /* thickness of unread messages divider and highlighted message borders */
+    --border-thickness: 0px; /* thickness of borders around main panels. DOES NOT AFFECT OTHER BORDERS */
 
     /* animation/transition options */
     --animations: on; /* turn off to disable all midnight animations/transitions */
@@ -136,14 +150,6 @@ body {
     --purple-3: hsl(270deg, 57%, 67%);
     --purple-4: hsl(270deg, 57%, 67%);
     --purple-5: hsl(270deg, 57%, 67%);
-}
-
-/* begin custom modifications */
-
-/* border fix */
-:root {
-    --border: #0000 !important;
-    --opacity-blurple-16: #0000;
 }
 
 /* reaction count fix */
